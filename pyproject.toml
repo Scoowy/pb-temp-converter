@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pb-temp-converter"
-version = "0.1.0"
+version = "0.1.1"
 description = "Convertidor de temperaturas"
 authors = ["Scoowy <gahonajuanjo@gmail.com>", "davidalejo <davidsparedez96@gmail.com>"]
 keywords = ["traductor", "translator"]

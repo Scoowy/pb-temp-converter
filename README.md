@@ -19,6 +19,16 @@ Dentro del modulo `converters` se encuentran las siguientes funciones:
 
 ## Modo de uso
 
+### Instalar el paquete
+
+Paquete alojado en [Test PyPi](https://test.pypi.org/).
+
+```bash
+pip install -i https://test.pypi.org/simple/ pb-temp-converter
+```
+
+### Uso del paquete
+
 ```python
 from pb_temp_converter.converters import F_to_K
 
@@ -27,6 +37,10 @@ kelvin_degrees = F_to_K(fahrenheit_degrees)
 ```
 
 ## Changelog
+
+### version 0.1.1
+
+- Más y mejor documentación.
 
 ### version 0.1.0
 
