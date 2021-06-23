@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "pb-temp-converter"
+version = "0.1.0"
+description = "Convertidor de temperaturas"
+authors = ["Scoowy <gahonajuanjo@gmail.com>", "davidalejo <davidsparedez96@gmail.com>"]
+keywords = ["traductor", "translator"]
+readme = "README.md"
+license = "MIT"
+homepage = "https://github.com/Scoowy/pb-temp-converter"
+repository = "https://github.com/Scoowy/pb-temp-converter"
+include = ["LICENSE"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
