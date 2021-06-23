@@ -2,8 +2,8 @@
 
 ## Integrantes
 
-- Juan José Gahona Cañar - @Scoowy
-- David Alejandro Paredes Sinchiri - @davidalejo
+- Juan José Gahona Cañar - [@Scoowy](https://github.com/Scoowy)
+- David Alejandro Paredes Sinchiri - [@davidalejo](https://github.com/davidalejo)
   
 ## Descripción
 
